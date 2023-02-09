@@ -6,3 +6,4 @@ Script changes file owner
 4- Script that creates an empty file called hello
 5- script adds execute permission to the owner of the file hello
 6-adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+Scripts gives execution permission to everybody
