@@ -8,3 +8,4 @@ Script changes file owner
 6-adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 Scripts gives execution permission to everybody
 8- Script gives permission to read write & execute to everyone except owner and group
+Permission 753
