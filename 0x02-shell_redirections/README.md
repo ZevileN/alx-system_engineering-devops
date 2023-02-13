@@ -1,2 +1,1 @@
-0. Script prints hello world followed by a new line standard output
-1. Script displays a confused smiley
+2. Script displays content of file
